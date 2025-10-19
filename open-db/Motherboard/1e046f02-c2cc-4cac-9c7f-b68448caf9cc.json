@@ -1,0 +1,112 @@
+{
+  "opendb_id": "1e046f02-c2cc-4cac-9c7f-b68448caf9cc",
+  "memory": {
+    "max": 128,
+    "ram_type": "DDR4",
+    "slots": 4
+  },
+  "storage_devices": {
+    "sata_6_gb_s": 0,
+    "sata_3_gb_s": 0,
+    "u2": 0
+  },
+  "usb_headers": {
+    "usb_2_0": 2,
+    "usb_3_2_gen_1": 2,
+    "usb_3_2_gen_2": 0,
+    "usb_3_2_gen_2x2": 0,
+    "usb_4": 0
+  },
+  "power_connectors": {
+    "cpu_power": []
+  },
+  "audio": {
+    "chipset": "Realtek",
+    "channels": "7.1"
+  },
+  "metadata": {
+    "name": "Asus Z490 PRIME-P LGA1200 DDR4 ATX",
+    "manufacturer": "ASUS",
+    "part_numbers": [
+      "PRIME Z490-P                                                    90MB12V0-M0EAY0"
+    ],
+    "series": "Z490",
+    "variant": ""
+  },
+  "socket": "LGA1200",
+  "form_factor": "ATX",
+  "chipset": "Intel Z490",
+  "color": [
+    "BLACK",
+    "GREY"
+  ],
+  "pcie_slots": [
+    {
+      "gen": "4.0",
+      "quantity": 2,
+      "lanes": 16,
+      "_id": "67f9b9d5865ad0c3553deb24"
+    },
+    {
+      "gen": "4.0",
+      "quantity": 4,
+      "lanes": 1,
+      "_id": "67f9b9d5865ad0c3553deb25"
+    }
+  ],
+  "m2_slots": [
+    {
+      "size": "2242-2260",
+      "key": "M",
+      "interface": "PCIe 4.0 x4",
+      "_id": "67f9b9d5865ad0c3553deb26"
+    },
+    {
+      "size": "2280",
+      "key": "M",
+      "interface": "PCIe 4.0 x4",
+      "_id": "67f9b9d5865ad0c3553deb27"
+    },
+    {
+      "size": "2242-2260",
+      "key": "M",
+      "interface": "PCIe 4.0 x4",
+      "_id": "67f9b9d5865ad0c3553deb28"
+    },
+    {
+      "size": "2280",
+      "key": "M",
+      "interface": "PCIe 4.0 x4",
+      "_id": "67f9b9d5865ad0c3553deb29"
+    },
+    {
+      "size": "2280",
+      "key": "E",
+      "interface": "PCIe 4.0 x4",
+      "_id": "67f9b9d5865ad0c3553deb2a"
+    }
+  ],
+  "onboard_ethernet": [
+    {
+      "speed": "1 Gb/s",
+      "controller": "Realtek RTL8111H",
+      "_id": "67f9b9d5865ad0c3553deb2b"
+    }
+  ],
+  "ecc_support": false,
+  "raid_support": true,
+  "back_connect_connectors": false,
+  "bios_features": {
+    "flashback": false,
+    "clear_cmos": false,
+    "_id": "67f9b9d5865ad0c3553deb2c"
+  },
+  "back_panel_ports": [
+    "1 x 1 Gb/s Ports (Realtek RTL8111H)"
+  ],
+  "general_product_information": {
+    "amazon_sku": "B07ZT3F95V",
+    "newegg_sku": "9SIAWKTJS92595",
+    "walmart_sku": 643540501
+  }
+}

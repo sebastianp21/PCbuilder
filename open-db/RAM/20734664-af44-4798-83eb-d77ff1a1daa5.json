@@ -1,0 +1,27 @@
+{
+  "opendb_id": "20734664-af44-4798-83eb-d77ff1a1daa5",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 8
+  },
+  "metadata": {
+    "name": "OLOy DDR4 RAM 16GB (2x8GB) 3200 MHz",
+    "manufacturer": "OLOy",
+    "part_numbers": [
+      "MD4U0832160BJ0DA)"
+    ],
+    "variant": "DDR4 RAM 16GB (2x8GB) 3200 MHz CL16"
+  },
+  "ram_type": "DDR4",
+  "form_factor": "288-pin DIMM (DDR4)",
+  "capacity": 16,
+  "color": [
+    "BLACK"
+  ],
+  "cas_latency": 16,
+  "voltage": 1.35,
+  "heat_spreader": true,
+  "general_product_information": {
+    "amazon_sku": "‎B088T2KNZ4"
+  }
+}

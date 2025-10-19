@@ -1,0 +1,32 @@
+{
+  "opendb_id": "01319e7c-fad2-406b-9d55-71de7426f929",
+  "metadata": {
+    "part_numbers": []
+  },
+  "form_factor": "EATX Mid Tower",
+  "color": [],
+  "supported_power_supply_form_factors": [],
+  "front_usb_ports": [
+    "1x USB-C GEN2",
+    "2x USB 3.0"
+  ],
+  "front_panel_usb": "1x USB-C GEN2                                                  2x USB 3.0     ",
+  "max_cpu_cooler_height": 190,
+  "expansion_slots": 7,
+  "riser_expansion_slots": 3,
+  "dimensions": "240 x 510 x 505",
+  "dimensions_mm": {
+    "width": 240,
+    "height": 510,
+    "depth": 505,
+    "_id": "68df6990281ee5c57dc6f8d7"
+  },
+  "volume": 61.812,
+  "weight": 17.64,
+  "has_transparent_side_panel": true,
+  "general_product_information": {
+    "amazon_sku": "B088T3VMKK",
+    "newegg_sku": "N82E16811854101",
+    "walmart_sku": 533758055
+  }
+}

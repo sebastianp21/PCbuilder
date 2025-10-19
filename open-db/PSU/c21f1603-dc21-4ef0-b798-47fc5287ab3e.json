@@ -1,0 +1,34 @@
+{
+  "opendb_id": "c21f1603-dc21-4ef0-b798-47fc5287ab3e",
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 0,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 0,
+    "sata": 12,
+    "molex_4_pin": 0,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Montech CENTURY II Black 1050W Fully Modular 80+ Gold Certified",
+    "manufacturer": "Montech",
+    "part_numbers": [
+      "CENTURY II 1050W"
+    ],
+    "series": "CENTURY",
+    "variant": "1050W Gold"
+  },
+  "wattage": 1050,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": [
+    "BLACK"
+  ],
+  "length": 140,
+  "fanless": false,
+  "general_product_information": {
+    "amazon_sku": "B0F3XRMZBM",
+    "newegg_sku": "N82E16817959009"
+  }
+}

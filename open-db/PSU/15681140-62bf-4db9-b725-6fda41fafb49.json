@@ -1,0 +1,36 @@
+{
+  "opendb_id": "15681140-62bf-4db9-b725-6fda41fafb49",
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 0,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 0,
+    "sata": 6,
+    "molex_4_pin": 0,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Corsair RM850e White 850W Fully Modular",
+    "manufacturer": "Corsair",
+    "part_numbers": [
+      "CP-9020293-NA                                                    CP-9020293-EU                                                    CP-9020293-UK                                                    CP-9020293-AU"
+    ],
+    "series": "RM850e",
+    "variant": "850W "
+  },
+  "wattage": 850,
+  "form_factor": "ATX",
+  "efficiency_rating": "",
+  "modular": "Full",
+  "color": [
+    "WHITE"
+  ],
+  "length": 140,
+  "fanless": false,
+  "general_product_information": {
+    "amazon_sku": "B0DZXLK5BY",
+    "newegg_sku": "N82E16817139341",
+    "bestbuy_sku": 6621914,
+    "walmart_sku": 17098460737
+  }
+}

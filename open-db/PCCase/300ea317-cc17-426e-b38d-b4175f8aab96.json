@@ -1,0 +1,31 @@
+{
+  "opendb_id": "300ea317-cc17-426e-b38d-b4175f8aab96",
+  "metadata": {
+    "part_numbers": []
+  },
+  "form_factor": "Micro ATX Mini Tower",
+  "color": [],
+  "supported_power_supply_form_factors": [],
+  "front_usb_ports": [
+    "USB3.0 x 1 ",
+    "USB2.0 x 1"
+  ],
+  "front_panel_usb": "USB3.0 x 1                                                            USB2.0 x 1",
+  "max_cpu_cooler_height": 175,
+  "expansion_slots": 4,
+  "dimensions": "210 x 415 x 400",
+  "dimensions_mm": {
+    "width": 210,
+    "height": 415,
+    "depth": 400,
+    "_id": "68df5ef23849780c4dacb952"
+  },
+  "weight": 10.0751254,
+  "volume": 35,
+  "general_product_information": {
+    "amazon_sku": "B08JGFGFTC",
+    "newegg_sku": "N82E16811553051",
+    "walmart_sku": 698584915,
+    "manufacturer_url": "https://cougargaming.com/products/cases/mg120/"
+  }
+}

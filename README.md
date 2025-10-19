@@ -13,3 +13,9 @@ Availability  of PCle x16 slot on motherboard
 Spce in cabinet for grphic card
 Availability of 8-pin and 6-pin PCle Graphics(PEG) connectors
 """
+
+#motherboard - RAM
+"""
+Check RAM type
+memory/ram_type == ram_type
+"""

@@ -1,0 +1,31 @@
+{
+  "opendb_id": "d6d441d9-a6ca-41db-acc2-7b221af8ef11",
+  "metadata": {
+    "name": "Deepcool CG530 ATX Mid Tower Black Tinted Acrylic Side Panel",
+    "manufacturer": "DeepCool",
+    "part_numbers": [
+      "R-CG530-BKNDA0-G-1"
+    ],
+    "series": "CG530",
+    "variant": ""
+  },
+  "form_factor": "ATX Mid Tower",
+  "color": [
+    "BLACK"
+  ],
+  "power_supply": "None",
+  "side_panel": "Tinted Acrylic",
+  "has_transparent_side_panel": true,
+  "front_panel_usb": "USB 3.2 Gen 1 Type-A                                                    USB 2.0 Type-A",
+  "max_video_card_length": 410,
+  "max_cpu_cooler_height": null,
+  "internal_3_5_bays": 2,
+  "internal_2_5_bays": 2,
+  "expansion_slots": 7,
+  "dimensions": "440 x 285 x 399",
+  "volume": 50.035,
+  "weight": null,
+  "supported_power_supply_form_factors": [],
+  "front_usb_ports": [],
+  "general_product_information": {}
+}
