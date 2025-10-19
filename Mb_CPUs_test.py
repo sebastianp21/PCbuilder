@@ -32,18 +32,28 @@ print("\n")
 """
 NOW, Read all cpu json files and count their compat for choosen cpu
 """
+
 compatBySocket = 0
+
+#list for sort names
+compat_cpu = []
 
 path_to_CPU_json = r'.\open-db\CPU'
 
-#loop for each cpu json file 
+#loop for each cpu json file to print each name and count if compatible
 for file_name in [file for file in os.listdir(path_to_CPU_json) if file.endswith('.json')]:
     new_path = os.path.join(path_to_CPU_json,file_name)
     #new_file_path = path_to_CPU_json + file_name
     with open(new_path,'r') as json_file:
         data = json.load(json_file)
         if data["socket"] == socket_new_Asus_X870_PRIME:
-            print(data["metadata"]["name"])
+            #print(data["metadata"]["name"])
+            compat_cpu.append(data["metadata"]["name"])
             compatBySocket += 1
 print("\n")
 print("Total compatible CPUs " + str(compatBySocket))
+
+compat_cpu.sort()
+
+for e in compat_cpu:
+    print(e)
